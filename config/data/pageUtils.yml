@@ -1,0 +1,8 @@
+steps_page:
+
+  value1: ~id txt_val_1 #'$122365.24'
+  value2: ~id txt_val_2 #'$599.00'
+  value3: ~id txt_val_4 #'$850139.99'
+  value4: ~id txt_val_5 #'$23329.50'
+  value4: ~id txt_val_6 #'$566.27'
+  Total: ~id txt_ttl_val #'$1000000.00'
